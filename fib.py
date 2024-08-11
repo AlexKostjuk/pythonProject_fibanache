@@ -32,5 +32,7 @@ class Fib:
             fib.append(self.clir_fibonacci(i))
         return fib
 
+
+
 f = Fib()
 print(f.calk_fibonacci(10))
